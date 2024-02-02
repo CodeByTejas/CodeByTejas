@@ -1,7 +1,12 @@
-[![MasterHead](https://i.pinimg.com/564x/9c/2b/bb/9c2bbb75e54744210b22a76589cf4d0e.jpg)](https://CodeByTejas.io)
+<p align="center">
+    <a href="https://CodeByTejas.io">
+        <img src="https://i.pinimg.com/564x/9c/2b/bb/9c2bbb75e54744210b22a76589cf4d0e.jpg" alt="MasterHead" width="110%" style="max-width: 800px;">
+    </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Tejas Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/cd/2e/7a/cd2e7aedeffcb336b0f5885e42be0cfc.jpg">
+<img align="right" alt="coding" width="500" height="500" src="https://i.pinimg.com/564x/cd/2e/7a/cd2e7aedeffcb336b0f5885e42be0cfc.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebytejas&label=Profile%20views&color=0e75b6&style=flat" alt="codebytejas" /> </p>
 
