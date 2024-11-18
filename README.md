@@ -11,16 +11,13 @@
 
 <!-- Profile Views Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CodeByTejas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=CodeByTejas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- 3D Tech Stack Animation -->
 <h2>🛠️ Tech Arsenal</h2>
 
 <!-- 3D Profile Contribution -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CodeByTejas/portfolio/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Profile"/>
-</div>
 
 <!-- Tech Stack Grid -->
 <div align="center">
