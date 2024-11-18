@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeByTejas&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="45%" alt="Most Used Languages" />
   
-  <img src="https://streak-stats.demolab.com?user=CodeByTejas&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=CodeByTejas&theme=tokyonight&hide_border=true" width="45%" alt="Streak Stats" />
 </div>
 
 <table>
