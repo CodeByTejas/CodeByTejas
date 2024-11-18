@@ -19,7 +19,7 @@
 
 <!-- 3D Profile Contribution -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CodeByTejas/CodeByTejas/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Profile"/>
+  <img src="https://raw.githubusercontent.com/CodeByTejas/portfolio/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Profile"/>
 </div>
 
 <!-- Tech Stack Grid -->
