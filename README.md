@@ -7,10 +7,7 @@
   </a>
 </div>
 
-<!-- 3D Contribution Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CodeByTejas/CodeByTejas/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+
 
 <!-- Profile Views Counter -->
 <p align="left">
