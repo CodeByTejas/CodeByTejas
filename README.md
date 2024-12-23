@@ -1,23 +1,16 @@
 <!-- Title Section with 3D Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+a+Robotics+and+Software+Engineer+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+a+Software+Engineer+💻" alt="Typing SVG" />
   <br/>
   <a href="https://variable007.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=520&lines=Portfolio+%7C+variable007.vercel.app" alt="Portfolio" />
   </a>
 </div>
 
-
-
 <!-- Profile Views Counter -->
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=CodeByTejas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-<!-- 3D Tech Stack Animation -->
-<h2>🛠️ Tech Arsenal</h2>
-
-<!-- 3D Profile Contribution -->
 
 <!-- Tech Stack Grid -->
 <div align="center">
@@ -79,26 +72,46 @@
       <br>REST API
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="65" height="65" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="Hugging Face" width="65" height="65" />
+      <br>HuggingFace
+    </td>
+  </tr>
 </table>
-
-<!-- Robotics & SLAM Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CodeByTejas/CodeByTejas/main/assets/robot-animation.gif" width="200px" alt="Robot Animation"/>
-  <img src="https://raw.githubusercontent.com/CodeByTejas/CodeByTejas/main/assets/slam-visualization.gif" width="200px" alt="SLAM Visualization"/>
-</div>
 
 <!-- Additional Tech Badges -->
 <p align="left">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="Langchain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
 <!-- GitHub Stats with 3D Effects -->
@@ -117,24 +130,24 @@
 <h2>🎯 Current Focus</h2>
 
 ```python
-class RoboticsSoftwareEngineer:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Tejas Gupta"
-        self.role = "Robotics & Software Engineer"
+        self.role = "Software Engineer"
         self.portfolio = "https://variable007.vercel.app"
         self.current_focus = [
-            "Robotics Systems Integration",
-            "Computer Vision & AI",
+            "Generative AI & LLMs",
             "Full-Stack Development",
-            "3D Visualization & SLAM"
+            "Machine Learning",
+            "Cloud Architecture"
         ]
-        self.learning = ["ROS2", "Deep Learning", "Cloud Robotics"]
-        self.interests = ["Autonomous Systems", "Computer Vision", "AI/ML"]
+        self.learning = ["LangChain", "Vector Databases", "MLOps"]
+        self.interests = ["AI/ML", "System Design", "Cloud Computing"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together! 🚀")
 
-me = RoboticsSoftwareEngineer()
+me = SoftwareEngineer()
 me.say_hi()
 ```
 
