@@ -1,9 +1,9 @@
-<!-- 🌍 3D Earth Banner (animated globe background) -->
+<!-- 🌍 Animated Globe Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/7NlcBCr.gif" width="100%" alt="Earth Background Animation" />
+  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="100%" alt="Earth Background Animation" />
 </div>
 
-<!-- Title Section with 3D Animation -->
+<!-- Title Section with Typing Effect -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Tejas+Gupta+%F0%9F%9A%80%2C+a+CV+%26+Geospatial+AI+Engineer" alt="Typing SVG" />
   <br/>
@@ -12,9 +12,9 @@
   </a>
 </div>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views -->
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=CodeByTejas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CodeByTejas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- GitHub Stats -->
@@ -23,8 +23,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByTejas&theme=tokyonight" width="45%" />
 </div>
 
-<!-- Tech Stack Grid -->
+<!-- Tech Stack -->
 <h2>🧠 Tech I Work With</h2>
+
 <table>
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
@@ -85,3 +86,29 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
+
+<!-- Vision Tools Section -->
+<h2>🧠 Key Tools in My Computer Vision Stack</h2>
+<p align="center"> <img
+        src="https://img.shields.io/badge/YOLOv8-ultralytics-FF1493?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/SAM-SegmentAnything-00CED1?style=for-the-badge&logo=meta&logoColor=white" />
+    <img src="https://img.shields.io/badge/Label Studio-FB923C?style=for-the-badge&logo=dataiku&logoColor=white" /> <img
+        src="https://img.shields.io/badge/Raster%20Processing-GDAL-32CD32?style=for-the-badge&logo=earth&logoColor=white" />
+    <img
+        src="https://img.shields.io/badge/Vector%20Search-FAISS-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+</p> <!-- Connect Section -->
+<h2>🤝 Let's Connect</h2>
+<p align="left"> <a href="https://www.linkedin.com/in/guptatejas22/"> <img
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+    <a href="https://x.com/variable009"> <img
+            src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
+    <a href="mailto:guptatejas86@gmail.com"> <img
+            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a
+        href="https://variable007.vercel.app"> <img
+            src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a> </p> <!-- GitHub Activity Graph --> <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByTejas&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph" /> <!-- Footer -->
+<div align="center"> <img
+        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div> ```
