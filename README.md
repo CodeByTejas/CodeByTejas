@@ -1,6 +1,6 @@
 <!-- 🌍 Animated Globe Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="100%" alt="Earth Background Animation" />
+<!--   <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.g/if" width="100%" alt="Earth Background Animation" /> -->
 </div>
 
 <!-- Title Section with Typing Effect -->
