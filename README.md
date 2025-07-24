@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/Image%20Segmentation🧠-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
+<!-- Class Snippet -->
 ```python
 class SoftwareEngineer:
     def __init__(self):
@@ -86,29 +87,3 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
-
-<!-- Vision Tools Section -->
-<h2>🧠 Key Tools in My Computer Vision Stack</h2>
-<p align="center"> <img
-        src="https://img.shields.io/badge/YOLOv8-ultralytics-FF1493?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SAM-SegmentAnything-00CED1?style=for-the-badge&logo=meta&logoColor=white" />
-    <img src="https://img.shields.io/badge/Label Studio-FB923C?style=for-the-badge&logo=dataiku&logoColor=white" /> <img
-        src="https://img.shields.io/badge/Raster%20Processing-GDAL-32CD32?style=for-the-badge&logo=earth&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/Vector%20Search-FAISS-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
-</p> <!-- Connect Section -->
-<h2>🤝 Let's Connect</h2>
-<p align="left"> <a href="https://www.linkedin.com/in/guptatejas22/"> <img
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-    <a href="https://x.com/variable009"> <img
-            src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
-    <a href="mailto:guptatejas86@gmail.com"> <img
-            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a
-        href="https://variable007.vercel.app"> <img
-            src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-    </a> </p> <!-- GitHub Activity Graph --> <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByTejas&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph" /> <!-- Footer -->
-<div align="center"> <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div> ```
